@@ -23,6 +23,8 @@ public class LanguageInfo extends StateDetails {
 		l.southIndia();
 		l.northIndia();
 System.out.println("welcome");
+		System.out.println("hi...........");
+		
 		
 	}
 
