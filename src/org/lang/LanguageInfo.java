@@ -22,7 +22,7 @@ public class LanguageInfo extends StateDetails {
 		l.hindiLanguage();
 		l.southIndia();
 		l.northIndia();
-System.out.println("good moring");
+System.out.println("good moring ");
 		
 	}
 
