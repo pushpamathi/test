@@ -22,7 +22,8 @@ public class LanguageInfo extends StateDetails {
 		l.hindiLanguage();
 		l.southIndia();
 		l.northIndia();
-
+System.out.println("welcome");
+		
 	}
 
 }
